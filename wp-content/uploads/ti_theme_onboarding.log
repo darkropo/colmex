@@ -1,0 +1,16 @@
+[01/Sep/2023:18:13:24] (I): WordPress Instance Info:
+[01/Sep/2023:18:13:24] (I): Home URL : http://localhost/colmex
+[01/Sep/2023:18:13:24] (I): Site URL : http://localhost/colmex
+[01/Sep/2023:18:13:24] (I): WordPress Version : 6.3.1
+[01/Sep/2023:18:13:24] (I): Onboarding Version : 1.1.39
+[01/Sep/2023:18:13:24] (I): Multisite : No
+[01/Sep/2023:18:13:24] (I): Server Info : Apache/2.4.52 (Ubuntu)
+[01/Sep/2023:18:13:24] (I): PHP Version : 7.4.33
+[01/Sep/2023:18:13:24] (I): HTTPS : No
+[01/Sep/2023:18:13:24] (I): PHP Max Execution Time : 30
+[01/Sep/2023:18:13:24] (I): PHP Max Input Vars : 1000
+[01/Sep/2023:18:13:24] (I): Max Upload Size : 2097152
+[01/Sep/2023:18:13:24] (I): Plugins:
+[01/Sep/2023:18:13:24] (I): [PLUGIN] Otter – Page Builder Blocks &amp; Extensions for Gutenberg : v2.3.4 (ThemeIsle)
+[01/Sep/2023:18:13:24] (I): [PLUGIN] Templates Patterns Collection : v1.1.39 (ThemeIsle)
+[01/Sep/2023:18:13:24] (I): [PLUGIN] WP Maintenance Mode &amp; Site Under Construction : v3.1 (wp-buy)
